@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.Persistence\\DSG.Service.Persistence.csproj": {}
+    "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.Persistence\\DSG.Service.Persistence.csproj": {}
   },
   "projects": {
-    "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.Models\\DSG.Service.Models.csproj": {
+    "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.Models\\DSG.Service.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.Models\\DSG.Service.Models.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.Models\\DSG.Service.Models.csproj",
         "projectName": "DSG.Service.Models",
-        "projectPath": "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.Models\\DSG.Service.Models.csproj",
+        "projectPath": "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.Models\\DSG.Service.Models.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.Models\\obj\\",
+        "outputPath": "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -76,14 +76,14 @@
         }
       }
     },
-    "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.Persistence\\DSG.Service.Persistence.csproj": {
+    "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.Persistence\\DSG.Service.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.Persistence\\DSG.Service.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.Persistence\\DSG.Service.Persistence.csproj",
         "projectName": "DSG.Service.Persistence",
-        "projectPath": "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.Persistence\\DSG.Service.Persistence.csproj",
+        "projectPath": "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.Persistence\\DSG.Service.Persistence.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.Persistence\\obj\\",
+        "outputPath": "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -100,8 +100,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.Models\\DSG.Service.Models.csproj": {
-                "projectPath": "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.Models\\DSG.Service.Models.csproj"
+              "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.Models\\DSG.Service.Models.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.Models\\DSG.Service.Models.csproj"
               }
             }
           }

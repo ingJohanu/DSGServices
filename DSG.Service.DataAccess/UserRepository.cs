@@ -80,7 +80,7 @@ namespace DSG.Service.DataAccess
         {
             Result result=new Result();
             Users? UserExist = await _DSGContext.Users.FirstOrDefaultAsync(x => x.IdUser == user.IdUser);
-            if (UserExist != null)
+            if (UserExist == null)
             {
                 EntityEntry<Users> InsertNewUser;
 

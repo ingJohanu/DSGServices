@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65D2C94A-54FF-47B9-A106-0F13F03C4238}|DSG.Service.DataAccess\\DSG.Service.DataAccess.csproj|c:\\users\\usuario\\documents\\github\\dsgservices\\dsg.service.dataaccess\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D2C94A-54FF-47B9-A106-0F13F03C4238}|DSG.Service.DataAccess\\DSG.Service.DataAccess.csproj|solutionrelative:dsg.service.dataaccess\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0D8965-20AC-4A2D-9B3A-847C8467C83C}|DSG.Service.API\\DSG.Service.API.csproj|c:\\users\\usuario\\documents\\github\\dsgservices\\dsg.service.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0D8965-20AC-4A2D-9B3A-847C8467C83C}|DSG.Service.API\\DSG.Service.API.csproj|solutionrelative:dsg.service.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DDE003-67D0-4C08-964A-83E8CE70EBAA}|DSG.Service.Repositories\\DSG.Service.Repositories.csproj|c:\\users\\usuario\\documents\\github\\dsgservices\\dsg.service.repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DDE003-67D0-4C08-964A-83E8CE70EBAA}|DSG.Service.Repositories\\DSG.Service.Repositories.csproj|solutionrelative:dsg.service.repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:23:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.DataAccess\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DSG.Service.DataAccess\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.DataAccess\\UserRepository.cs",
+              "RelativeToolTip": "DSG.Service.DataAccess\\UserRepository.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAFIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T04:58:13.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DSG.Service.Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "DSG.Service.Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T04:50:41.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "DSG.Service.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "DSG.Service.API\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T04:47:54.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 136,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

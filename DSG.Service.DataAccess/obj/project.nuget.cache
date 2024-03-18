@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Tf6xUjCwF4iyng4b1PrbNOkMs7Ss2VZmntA6TYsht2bX4y9NCTzIgdzMMwLBeKliRYDidoEsJcxJfoqAjDAxRA==",
+  "dgSpecHash": "D3Dv8LtPgcoMel2d/HJSoxyNDHA/dkmIW71Euda8Bc5S/CiSVPJ6cjXG0L97AlVSuZMS/1nI/xamN3i0f1NhaQ==",
   "success": true,
-  "projectFilePath": "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.DataAccess\\DSG.Service.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.DataAccess\\DSG.Service.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USUARIO\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

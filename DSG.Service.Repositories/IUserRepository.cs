@@ -9,7 +9,7 @@ namespace DSG.Service.Repositories
 {
     public interface IUserRepository:IRepository<Users>
     {
-        Task<IEnumerable<Users>> FindFisrtNameOrLastName(string FirstName,string? LastName,int PageNumber,int PageSize);
+        Task<IEnumerable<Users>> FindFisrtNameOrLastName(string? FirstName,string? LastName,int PageNumber,int PageSize);
 
         Task<Users> FindById(int id);
 

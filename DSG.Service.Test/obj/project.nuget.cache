@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w9hShwraTNYqvnMWTIopuHIUhkPZMpIUDBpZDA3bYeI2UU03g8FZtvhlpq0ue7ouhtteTXCMKO2Z10dtnUgZ1A==",
+  "dgSpecHash": "3Qle2FC95Vzzc4G2jOjQYumKoxpR7yO1RtUnbmtE8CJyNT5JC8dwj8mqfkX4DC1RGXrKfQY0EaQit/NnGGdvYw==",
   "success": true,
-  "projectFilePath": "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.Test\\DSG.Service.Test.csproj",
+  "projectFilePath": "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.Test\\DSG.Service.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USUARIO\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

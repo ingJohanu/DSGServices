@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.UnitOfWork\\DSG.Service.UnitOfWork.csproj": {}
+    "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.UnitOfWork\\DSG.Service.UnitOfWork.csproj": {}
   },
   "projects": {
-    "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.Models\\DSG.Service.Models.csproj": {
+    "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.Models\\DSG.Service.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.Models\\DSG.Service.Models.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.Models\\DSG.Service.Models.csproj",
         "projectName": "DSG.Service.Models",
-        "projectPath": "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.Models\\DSG.Service.Models.csproj",
+        "projectPath": "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.Models\\DSG.Service.Models.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.Models\\obj\\",
+        "outputPath": "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -76,14 +76,14 @@
         }
       }
     },
-    "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.Repositories\\DSG.Service.Repositories.csproj": {
+    "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.Repositories\\DSG.Service.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.Repositories\\DSG.Service.Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.Repositories\\DSG.Service.Repositories.csproj",
         "projectName": "DSG.Service.Repositories",
-        "projectPath": "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.Repositories\\DSG.Service.Repositories.csproj",
+        "projectPath": "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.Repositories\\DSG.Service.Repositories.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.Repositories\\obj\\",
+        "outputPath": "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -100,8 +100,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.Models\\DSG.Service.Models.csproj": {
-                "projectPath": "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.Models\\DSG.Service.Models.csproj"
+              "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.Models\\DSG.Service.Models.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.Models\\DSG.Service.Models.csproj"
               }
             }
           }
@@ -152,14 +152,14 @@
         }
       }
     },
-    "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.UnitOfWork\\DSG.Service.UnitOfWork.csproj": {
+    "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.UnitOfWork\\DSG.Service.UnitOfWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.UnitOfWork\\DSG.Service.UnitOfWork.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.UnitOfWork\\DSG.Service.UnitOfWork.csproj",
         "projectName": "DSG.Service.UnitOfWork",
-        "projectPath": "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.UnitOfWork\\DSG.Service.UnitOfWork.csproj",
+        "projectPath": "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.UnitOfWork\\DSG.Service.UnitOfWork.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.UnitOfWork\\obj\\",
+        "outputPath": "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.UnitOfWork\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -176,8 +176,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.Repositories\\DSG.Service.Repositories.csproj": {
-                "projectPath": "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.Repositories\\DSG.Service.Repositories.csproj"
+              "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.Repositories\\DSG.Service.Repositories.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.Repositories\\DSG.Service.Repositories.csproj"
               }
             }
           }

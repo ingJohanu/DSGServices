@@ -17,31 +17,31 @@ namespace DSG.Service.API.Controllers
         {
             _IUnitoOfWork = IUnitOfWork;
         }
-        [HttpGet]
-        public async Task<IEnumerable<Users>> FindFisrtNameOrLastName(string FirstName,string? LastName, int PageNumber, int PageSize)
+        [HttpGet("FindFisrtNameOrLastName")]
+        public async Task<IEnumerable<Users>> FindFisrtNameOrLastName(string? FirstName,string? LastName, int PageNumber, int PageSize)
         {
             return await _IUnitoOfWork.Users.FindFisrtNameOrLastName(FirstName,LastName, PageNumber, PageSize);
         }
 
-        [HttpGet("{id}")]
+        [HttpGet("FindById")]
         public async Task<Users> FindById(int id)
         {
             return await _IUnitoOfWork.Users.FindById(id);
         }
 
-        [HttpPost]
+        [HttpPost("Insert")]
         public async Task<Users> Insert(Users user)
         {
             return await _IUnitoOfWork.Users.InsertUser(user);
         }
 
-        [HttpPut]
+        [HttpPut("Update")]
         public async Task<Users> Update(Users user)
         {
             return await _IUnitoOfWork.Users.UpdateUser(user);
         }
 
-        [HttpDelete]
+        [HttpDelete("Delete")]
         public async Task<bool> Delete(int idUser)
         {
             return await _IUnitoOfWork.Users.DeleteUser(idUser);

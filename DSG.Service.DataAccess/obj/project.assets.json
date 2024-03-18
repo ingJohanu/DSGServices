@@ -2564,11 +2564,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.DataAccess\\DSG.Service.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.DataAccess\\DSG.Service.DataAccess.csproj",
       "projectName": "DSG.Service.DataAccess",
-      "projectPath": "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.DataAccess\\DSG.Service.DataAccess.csproj",
+      "projectPath": "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.DataAccess\\DSG.Service.DataAccess.csproj",
       "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-      "outputPath": "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2585,14 +2585,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.Persistence\\DSG.Service.Persistence.csproj": {
-              "projectPath": "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.Persistence\\DSG.Service.Persistence.csproj"
+            "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.Persistence\\DSG.Service.Persistence.csproj": {
+              "projectPath": "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.Persistence\\DSG.Service.Persistence.csproj"
             },
-            "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.Repositories\\DSG.Service.Repositories.csproj": {
-              "projectPath": "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.Repositories\\DSG.Service.Repositories.csproj"
+            "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.Repositories\\DSG.Service.Repositories.csproj": {
+              "projectPath": "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.Repositories\\DSG.Service.Repositories.csproj"
             },
-            "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.UnitOfWork\\DSG.Service.UnitOfWork.csproj": {
-              "projectPath": "D:\\DesarrolloPruebas\\DSG.Services\\DSG.Service.UnitOfWork\\DSG.Service.UnitOfWork.csproj"
+            "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.UnitOfWork\\DSG.Service.UnitOfWork.csproj": {
+              "projectPath": "C:\\Users\\USUARIO\\Documents\\GitHub\\DSGServices\\DSG.Service.UnitOfWork\\DSG.Service.UnitOfWork.csproj"
             }
           }
         }

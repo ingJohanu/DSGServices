@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DSG.Service.DataAccess
-build_property.ProjectDir = D:\DesarrolloPruebas\DSG.Services\DSG.Service.DataAccess\
+build_property.ProjectDir = C:\Users\USUARIO\Documents\GitHub\DSGServices\DSG.Service.DataAccess\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
