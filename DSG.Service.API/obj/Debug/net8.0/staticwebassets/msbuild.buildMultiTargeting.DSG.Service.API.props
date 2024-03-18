@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DSG.Service.API.props" />
+</Project>

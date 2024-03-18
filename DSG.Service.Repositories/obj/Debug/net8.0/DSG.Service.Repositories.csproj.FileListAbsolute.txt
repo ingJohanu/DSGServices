@@ -1,0 +1,17 @@
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.Repositories\bin\Debug\net8.0\DSG.Service.Repositories.deps.json
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.Repositories\bin\Debug\net8.0\DSG.Service.Repositories.runtimeconfig.json
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.Repositories\bin\Debug\net8.0\DSG.Service.Repositories.dll
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.Repositories\bin\Debug\net8.0\DSG.Service.Repositories.pdb
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.Repositories\obj\Debug\net8.0\DSG.Service.Repositories.csproj.AssemblyReference.cache
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.Repositories\obj\Debug\net8.0\DSG.Service.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.Repositories\obj\Debug\net8.0\DSG.Service.Repositories.AssemblyInfoInputs.cache
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.Repositories\obj\Debug\net8.0\DSG.Service.Repositories.AssemblyInfo.cs
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.Repositories\obj\Debug\net8.0\DSG.Service.Repositories.csproj.CoreCompileInputs.cache
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.Repositories\obj\Debug\net8.0\DSG.Service.Repositories.dll
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.Repositories\obj\Debug\net8.0\refint\DSG.Service.Repositories.dll
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.Repositories\obj\Debug\net8.0\DSG.Service.Repositories.pdb
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.Repositories\obj\Debug\net8.0\DSG.Service.Repositories.genruntimeconfig.cache
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.Repositories\obj\Debug\net8.0\ref\DSG.Service.Repositories.dll
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.Repositories\bin\Debug\net8.0\DSG.Service.Models.dll
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.Repositories\bin\Debug\net8.0\DSG.Service.Models.pdb
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.Repositories\obj\Debug\net8.0\DSG.Serv.AE96EFEA.Up2Date

@@ -1,0 +1,17 @@
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.UnitOfWork\bin\Debug\net8.0\DSG.Service.UnitOfWork.deps.json
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.UnitOfWork\bin\Debug\net8.0\DSG.Service.UnitOfWork.dll
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.UnitOfWork\bin\Debug\net8.0\DSG.Service.UnitOfWork.pdb
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.UnitOfWork\obj\Debug\net8.0\DSG.Service.UnitOfWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.UnitOfWork\obj\Debug\net8.0\DSG.Service.UnitOfWork.AssemblyInfoInputs.cache
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.UnitOfWork\obj\Debug\net8.0\DSG.Service.UnitOfWork.AssemblyInfo.cs
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.UnitOfWork\obj\Debug\net8.0\DSG.Service.UnitOfWork.csproj.CoreCompileInputs.cache
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.UnitOfWork\obj\Debug\net8.0\DSG.Service.UnitOfWork.dll
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.UnitOfWork\obj\Debug\net8.0\refint\DSG.Service.UnitOfWork.dll
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.UnitOfWork\obj\Debug\net8.0\DSG.Service.UnitOfWork.pdb
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.UnitOfWork\obj\Debug\net8.0\ref\DSG.Service.UnitOfWork.dll
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.UnitOfWork\bin\Debug\net8.0\DSG.Service.Repositories.dll
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.UnitOfWork\bin\Debug\net8.0\DSG.Service.Repositories.pdb
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.UnitOfWork\obj\Debug\net8.0\DSG.Service.UnitOfWork.csproj.AssemblyReference.cache
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.UnitOfWork\obj\Debug\net8.0\DSG.Serv.F6933421.Up2Date
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.UnitOfWork\bin\Debug\net8.0\DSG.Service.Models.dll
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.UnitOfWork\bin\Debug\net8.0\DSG.Service.Models.pdb

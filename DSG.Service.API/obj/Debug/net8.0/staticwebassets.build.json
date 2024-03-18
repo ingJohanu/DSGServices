@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8jFU1GNlFKhtqFdQjVF78KaZrzbdIF3zs/5MqR0QFw0=",
+  "Source": "DSG.Service.API",
+  "BasePath": "_content/DSG.Service.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

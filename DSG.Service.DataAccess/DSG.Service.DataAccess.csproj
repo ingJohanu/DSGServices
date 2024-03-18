@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DSG.Service.Persistence\DSG.Service.Persistence.csproj" />
+    <ProjectReference Include="..\DSG.Service.Repositories\DSG.Service.Repositories.csproj" />
+    <ProjectReference Include="..\DSG.Service.UnitOfWork\DSG.Service.UnitOfWork.csproj" />
+  </ItemGroup>
+
+</Project>

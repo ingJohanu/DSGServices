@@ -1,0 +1,15 @@
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.Persistence\bin\Debug\net8.0\DSG.Service.Persistence.deps.json
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.Persistence\bin\Debug\net8.0\DSG.Service.Persistence.dll
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.Persistence\bin\Debug\net8.0\DSG.Service.Persistence.pdb
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.Persistence\bin\Debug\net8.0\DSG.Service.Models.dll
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.Persistence\bin\Debug\net8.0\DSG.Service.Models.pdb
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.Persistence\obj\Debug\net8.0\DSG.Service.Persistence.csproj.AssemblyReference.cache
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.Persistence\obj\Debug\net8.0\DSG.Service.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.Persistence\obj\Debug\net8.0\DSG.Service.Persistence.AssemblyInfoInputs.cache
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.Persistence\obj\Debug\net8.0\DSG.Service.Persistence.AssemblyInfo.cs
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.Persistence\obj\Debug\net8.0\DSG.Service.Persistence.csproj.CoreCompileInputs.cache
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.Persistence\obj\Debug\net8.0\DSG.Serv.2EF2A8BB.Up2Date
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.Persistence\obj\Debug\net8.0\DSG.Service.Persistence.dll
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.Persistence\obj\Debug\net8.0\refint\DSG.Service.Persistence.dll
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.Persistence\obj\Debug\net8.0\DSG.Service.Persistence.pdb
+D:\DesarrolloPruebas\DSG.Services\DSG.Service.Persistence\obj\Debug\net8.0\ref\DSG.Service.Persistence.dll
